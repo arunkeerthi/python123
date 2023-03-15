@@ -1,4 +1,4 @@
-I am from chennai
-I am working as a devloper
+I am from thircy
+I am working as a devloper1,2
 git 1
 jenkins
