@@ -1,4 +1,6 @@
+
 I am from devloper2
-I am working as a rocky
+I am from thircy
+I am working as a devops eng
 git 1
 jenkins
